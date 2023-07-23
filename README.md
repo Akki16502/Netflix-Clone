@@ -26,7 +26,7 @@ open index.html
 
 ## Live Demo
 
-- You can also view the live  project [here](https://akki16502.github.io/Netflix-Clone-main/index.html)
+- You can also view the live  project [here](https://funny-selkie-73d841.netlify.app/)
 
 ## Dependencies
 
