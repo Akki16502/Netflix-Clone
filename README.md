@@ -45,11 +45,11 @@ This is a learning project and contributions are not expected. However, if you h
 
 ## Screenshots
 
-![MainPage](https://github.com/Akki16502/Netflix-Clone-main/assets/84759049/4a5f55cd-d28f-4239-9cf7-98d2e0de9bdd)
-![Trailer](https://github.com/Akki16502/Netflix-Clone-main/assets/84759049/402a1d5d-fc2d-4662-8e25-7b038967c79a)
-![Categorizations](https://github.com/Akki16502/Netflix-Clone-main/assets/84759049/e177a4b6-0107-49d8-baad-cfb7fb618630)
-![Movie Title With Description](https://github.com/Akki16502/Netflix-Clone-main/assets/84759049/b37e0017-5ea4-4707-8600-f6397730a13b)
-![Recommendation](https://github.com/Akki16502/Netflix-Clone-main/assets/84759049/12de90a7-ce5e-4d86-86a4-d74a12fe9c18)
+
+![Web capture_23-7-2023_15213_127 0 0 1](https://github.com/Akki16502/Netflix-Clone/assets/84759049/2d24add7-c340-4d16-a695-7da60ed19532)
+![Web capture_23-7-2023_15232_127 0 0 1](https://github.com/Akki16502/Netflix-Clone/assets/84759049/ad3d0f3c-5eb0-4133-a129-5a0535ac81b9)
+![Web capture_23-7-2023_15238_127 0 0 1](https://github.com/Akki16502/Netflix-Clone/assets/84759049/17c2cff8-d14e-489f-80ee-ff76b04b2701)
+
 
 
 ## License
